@@ -1,6 +1,6 @@
 <!-- PROJECT LOGO -->
 <p align="center">
-  <a href="https://github.com/oxomde">
+  <a href="https://github.com/oxom-co">
     <img src="https://cdn.oxom.de/Banner.png" alt="Logo">
   </a>
 
@@ -11,16 +11,16 @@
     <br/>
     <i>Committed to Your Privacy</i>
     <br/>
-    <a href="https://oxom.de"><strong>Learn more »</strong></a>
+    <a href="https://oxom.co"><strong>Learn more »</strong></a>
     <br />
     <br />
     <br />
-    <a href="https://oxom.de">Website</a>
+    <a href="https://oxom.co">Website</a>
     ·
-    <a href="https://go.oxom.de/mastodon">Mastodon</a>
+    <a href="https://oxom.social">Mastodon</a>
     ·
-    <a href="https://status.oxom.de">Status</a>
+    <a href="https://oxom.co/status">Status</a>
     ·
-    <a href="https://oxom.de/roadmap">Roadmap</a>
+    <a href="https://oxom.co/roadmap">Roadmap</a>
   </p>
 </p>
