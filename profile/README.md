@@ -7,19 +7,15 @@
   <h3 align="center">oxom ®</h3>
 
   <p align="center">
-    Innovative Solutions, Beautifully Designed.
+    Backing up creators on their road to success.
     <br/>
-    <i>Committed to Your Privacy</i>
-    <br/>
-    <a href="https://oxom.co"><strong>Learn more »</strong></a>
+    <a href="https://www.oxom.co"><strong>Learn more »</strong></a>
     <br />
     <br />
     <br />
     <a href="https://oxom.co">Website</a>
     ·
-    <a href="https://oxom.social">Mastodon</a>
-    ·
-    <a href="https://oxom.co/status">Status</a>
+    <a href="https://oxom.link/status">Status</a>
     ·
     <a href="https://oxom.co/roadmap">Roadmap</a>
   </p>
